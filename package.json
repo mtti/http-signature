@@ -31,13 +31,13 @@
   "devDependencies": {
     "@mtti/eslint-config-typescript": "3.0.0",
     "@types/jest": "27.0.1",
-    "@typescript-eslint/eslint-plugin": "4.29.1",
-    "@typescript-eslint/parser": "4.29.1",
+    "@typescript-eslint/eslint-plugin": "4.29.2",
+    "@typescript-eslint/parser": "4.29.2",
     "chokidar-cli": "3.0.0",
     "eslint": "7.32.0",
-    "eslint-plugin-import": "2.24.0",
+    "eslint-plugin-import": "2.24.1",
     "jest": "27.0.6",
-    "ts-jest": "27.0.4",
+    "ts-jest": "27.0.5",
     "typescript": "4.3.5"
   }
 }
