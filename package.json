@@ -38,6 +38,6 @@
     "eslint-plugin-import": "2.29.1",
     "jest": "27.5.1",
     "ts-jest": "27.1.5",
-    "typescript": "5.0.4"
+    "typescript": "5.4.3"
   }
 }
